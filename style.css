@@ -15,7 +15,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 48px;
+  padding: 50px;
   position: fixed;
   width: 100%;
   background-color: #09090a
@@ -101,3 +101,6 @@ input:checked {
     display: none;
   }
 }
+
+
+
