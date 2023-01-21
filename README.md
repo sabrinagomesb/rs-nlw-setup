@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Habits é uma aplicação para registrar e monitorar seus hábitos. Foi realizado durante o evento NLW Setup da Rocketseat
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/new_preview.jpg" width="70%">
+  <img alt="imagem do projeto" src="./.github/new_preview.jpg" width="70%">
 </p>
 
 ## 🔖 Layout
