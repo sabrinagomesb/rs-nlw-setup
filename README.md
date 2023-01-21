@@ -25,7 +25,7 @@ O Habits é uma aplicação para registrar e monitorar seus hábitos. Foi realiz
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](hhttps://www.figma.com/file/gdhOJaBW0wm110DeoYUNkX/Habits-(e)-(Community)?node-id=75%3A128&t=yI8N3GbR79pUopOL-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 <p align="center">Feito por <a href="https://github.com/sabrinagomesb">💫 Sabrina Gomes</a></p>
